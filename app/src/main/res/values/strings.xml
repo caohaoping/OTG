@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Otg</string>
+    <string name="storage_root">USB-Storage</string>
+</resources>
